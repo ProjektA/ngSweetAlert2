@@ -1,0 +1,25 @@
+{
+  "name": "ngSweetAlert2",
+  "homepage": "https://github.com/eskydar/ngSweetAlert2",
+  "authors": [
+    "Sebastiaan van Arkens <sebastiaan@vanarkens.nl>",
+    "Pedro Oitozero <pedro@oitozero.com>"
+  ],
+  "description": "AngularJS wrapper for SweetAlert2",
+  "main": "./SweetAlert.js",
+  "keywords": [
+    "angular",
+    "AngularJs",
+    "sweetalert",
+    "sweet",
+    "alert"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
